@@ -48,7 +48,7 @@ Before you begin, ensure you have the following installed:
 ### **Installation**
 1. **Clone the repository**:
    ```bash
-   https://github.com/mohammed-hanan-othman/ecommerce-api.git
+   git clone https://github.com/Mohammed-Hanan-Othman/ecommerce-api.git
    cd ecommerce-api
    ```
 
